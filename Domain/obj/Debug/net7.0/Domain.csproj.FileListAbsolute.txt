@@ -1,0 +1,12 @@
+E:\MyProj\CSharp\NewShop\Domain\bin\Debug\net7.0\Domain.deps.json
+E:\MyProj\CSharp\NewShop\Domain\bin\Debug\net7.0\Domain.dll
+E:\MyProj\CSharp\NewShop\Domain\bin\Debug\net7.0\Domain.pdb
+E:\MyProj\CSharp\NewShop\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+E:\MyProj\CSharp\NewShop\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProj\CSharp\NewShop\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+E:\MyProj\CSharp\NewShop\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+E:\MyProj\CSharp\NewShop\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+E:\MyProj\CSharp\NewShop\Domain\obj\Debug\net7.0\Domain.dll
+E:\MyProj\CSharp\NewShop\Domain\obj\Debug\net7.0\refint\Domain.dll
+E:\MyProj\CSharp\NewShop\Domain\obj\Debug\net7.0\Domain.pdb
+E:\MyProj\CSharp\NewShop\Domain\obj\Debug\net7.0\ref\Domain.dll

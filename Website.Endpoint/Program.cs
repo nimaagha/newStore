@@ -1,7 +1,17 @@
+using Application.Interfaces.Contexts;
+using Microsoft.EntityFrameworkCore;
+using Persistence.Contexts;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+#region connection string
+string connection = builder.Configuration["ConnectionStrings:SqlServer"];
+
+builder.Services.AddDbContext<DatabaseContext>(option => option.UseSqlServer(connection));
+#endregion
 
 var app = builder.Build();
 

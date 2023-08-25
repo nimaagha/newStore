@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Website.Endpoint.props" />
+</Project>
