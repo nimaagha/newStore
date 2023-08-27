@@ -13,11 +13,10 @@ namespace Persistence.Contexts
 {
     public class DatabaseContext:DbContext,IDatabaseContext
     {
-        public DatabaseContext(DbContextOptions options): base(options)
+        public DatabaseContext(DbContextOptions<DatabaseContext> options): base(options)
         {
             
         }
-        public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
